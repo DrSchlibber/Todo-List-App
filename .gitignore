@@ -1,0 +1,48 @@
+# Java & Maven/Gradle
+target/
+bin/
+build/
+out/
+*.class
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.sw?
+*.sublime-workspace
+*.sublime-project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+*.local
+
+# Vaadin
+node_modules/
+frontend/generated/
+.flow/
+vaadin.generated.ts
+
+# Spring Boot
+*.jar
+*.war
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# MongoDB data (falls lokal)
+data/db/
+
+# Misc
+*.bak
