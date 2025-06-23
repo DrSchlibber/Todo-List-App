@@ -3,7 +3,7 @@ target/
 bin/
 build/
 out/
-src/main/recources/
+src/main/resources/
 *.class
 
 # IDEs
@@ -47,3 +47,9 @@ data/db/
 
 # Misc
 *.bak
+vite.generated.ts
+vite.config.ts
+types.d.ts
+.gitignore
+README.md
+tsconfig.json
